@@ -13,7 +13,7 @@ body {
 
 .cabecalho {
     height: 100%;
-    background-image: url(../img/wallhaven-kx3p1q_1280x720.png);
+    background-image: url("../img/wallhaven-kx3p1q_1280x720.png");
     position: absolute;
     width: 100%;
     background-size: contain;
